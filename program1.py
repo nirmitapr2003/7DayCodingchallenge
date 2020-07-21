@@ -1,4 +1,4 @@
-#Write a python program to display the first and last colors from the following list.
+#1.Write a python program to display the first and last colors from the following list.
 input_string = input("Enter a list elements separated by space ")
 userList=[]
 print("\n")
